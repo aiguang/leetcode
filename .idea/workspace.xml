@@ -96,24 +96,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HappyNumber.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HappyNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="21" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="456">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxDepthOfBinaryTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MaxDepthOfBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="293" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="646">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SingleNumber.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SingleNumber.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -159,13 +141,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Caculate.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Caculate.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Caculate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="5" selection-start="2645" selection-end="2645" vertical-scroll-proportion="5.620579" vertical-offset="0" max-vertical-offset="1919">
+            <state line="92" column="5" selection-start="2645" selection-end="2645" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1919">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LowestCommonAncestor.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LowestCommonAncestor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="0" selection-start="1599" selection-end="3303" vertical-scroll-proportion="0.41358024" vertical-offset="702" max-vertical-offset="1900">
               <folding>
-                <element signature="e#521#530#0" expanded="true" />
-                <element signature="e#583#592#0" expanded="true" />
+                <element signature="e#1857#1867#0" expanded="true" />
+                <element signature="e#2002#2012#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LowestCommonAncestorII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LowestCommonAncestorII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="42" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="161" column="12" selection-start="6021" selection-end="6021" vertical-scroll-proportion="0.0" vertical-offset="2067" max-vertical-offset="3629">
+              <folding>
+                <element signature="e#0#8026#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -209,6 +220,9 @@
         <option value="$PROJECT_DIR$/src/main/java/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/InvertBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/Caculate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LowestCommonAncetor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LowestCommonAncestorII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LowestCommonAncestor.java" />
       </list>
     </option>
   </component>
@@ -253,8 +267,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -329,6 +341,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,28 +358,7 @@
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Caculate">
-    <configuration default="false" name="SummaryRanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="SummaryRanges" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.LowestCommonAncestor">
     <configuration default="false" name="RemoveLinkedListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="RemoveLinkedListNode" />
@@ -450,6 +443,27 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LowestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="LowestCommonAncestor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -659,21 +673,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -693,20 +692,35 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SummaryRanges" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RemoveLinkedListNode" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HappyNumber" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SingleNumber" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Caculate" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RemoveLinkedListNode" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HappyNumber" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SingleNumber" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Caculate" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LowestCommonAncestor" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Caculate" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SingleNumber" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HappyNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RemoveLinkedListNode" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SummaryRanges" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LowestCommonAncestor" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Caculate" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SingleNumber" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HappyNumber" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RemoveLinkedListNode" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -755,15 +769,16 @@
       <workItem from="1436148560375" duration="303000" />
       <workItem from="1436181791615" duration="1560000" />
       <workItem from="1436260248350" duration="3705000" />
+      <workItem from="1436850936315" duration="11277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55340000" />
+    <option name="totallyTimeSpent" value="66617000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -785,7 +800,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19033675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24524158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44707742" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -815,20 +830,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainsDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="1" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="570">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainsDuplicateII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="5" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="331" max-vertical-offset="798">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ReverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="18" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" vertical-offset="1045" max-vertical-offset="1349">
@@ -1130,13 +1131,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="6" selection-start="7458" selection-end="7458" vertical-scroll-proportion="0.0" vertical-offset="2941" max-vertical-offset="3629">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MajorElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="29" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1064">
@@ -1167,10 +1161,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Caculate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="5" selection-start="2645" selection-end="2645" vertical-scroll-proportion="5.620579" vertical-offset="0" max-vertical-offset="1919">
+        <state line="92" column="5" selection-start="2645" selection-end="2645" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1919">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="12" selection-start="6021" selection-end="6021" vertical-scroll-proportion="0.0" vertical-offset="2067" max-vertical-offset="3629">
           <folding>
-            <element signature="e#521#530#0" expanded="true" />
-            <element signature="e#583#592#0" expanded="true" />
+            <element signature="e#0#8026#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LowestCommonAncestorII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="42" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LowestCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1599" selection-end="3303" vertical-scroll-proportion="0.41358024" vertical-offset="702" max-vertical-offset="1900">
+          <folding>
+            <element signature="e#1857#1867#0" expanded="true" />
+            <element signature="e#2002#2012#0" expanded="true" />
           </folding>
         </state>
       </provider>
