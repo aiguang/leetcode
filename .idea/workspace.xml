@@ -11,6 +11,78 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CloverPlugin" class="com.atlassian.clover.idea.config.IdeaCloverConfig">
+    <loadPerTestData>true</loadPerTestData>
+    <filteredHighlight>-11513776</filteredHighlight>
+    <relativeInitString>false</relativeInitString>
+    <buildWithClover>true</buildWithClover>
+    <lastProjectConfigTabSelected>2</lastProjectConfigTabSelected>
+    <periodicRefresh>false</periodicRefresh>
+    <notCoveredStripe>-65536</notCoveredStripe>
+    <projectRebuild class="com.atlassian.clover.idea.config.ProjectRebuild">ASK</projectRebuild>
+    <flushPolicy>0</flushPolicy>
+    <viewIncludeAnnotation>true</viewIncludeAnnotation>
+    <alwaysExpandTestClasses>false</alwaysExpandTestClasses>
+    <languageLevel>1.8 - lambda functions, virtual extension methods.</languageLevel>
+    <manualInitString null="true" />
+    <showInline>true</showInline>
+    <autoRefreshInterval>2000</autoRefreshInterval>
+    <flushInterval>5000</flushInterval>
+    <showSummaryInToolwindow>true</showSummaryInToolwindow>
+    <autoRefresh>true</autoRefresh>
+    <coveredHighlight>-16756736</coveredHighlight>
+    <enabled>false</enabled>
+    <modelScope class="com.atlassian.clover.idea.util.ModelScope">APP_CLASSES_ONLY</modelScope>
+    <alwaysCollapseTestClasses>false</alwaysCollapseTestClasses>
+    <excludes null="true" />
+    <filteredStripe>-4144960</filteredStripe>
+    <instrumentTests>true</instrumentTests>
+    <calculateTestCoverage>true</calculateTestCoverage>
+    <outOfDateHighlight>-16777201</outOfDateHighlight>
+    <notCoveredHighlight>-11534336</notCoveredHighlight>
+    <hideFullyCovered>false</hideFullyCovered>
+    <cloudReportIncludeSubpkgs>false</cloudReportIncludeSubpkgs>
+    <includes null="true" />
+    <includePassedTestCoverageOnly>true</includePassedTestCoverageOnly>
+    <viewCoverage>true</viewCoverage>
+    <contextFilterSpec />
+    <coveredStripe>-16711936</coveredStripe>
+    <autoScroll>true</autoScroll>
+    <autoViewInCloudReport>true</autoViewInCloudReport>
+    <showGutter>true</showGutter>
+    <useGeneratedInitString>true</useGeneratedInitString>
+    <testCaseLayout class="com.atlassian.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
+    <dumpInstrumentedSources>false</dumpInstrumentedSources>
+    <failedCoveredStripe>-14336</failedCoveredStripe>
+    <regexpContexts class="java.util.ArrayList" />
+    <flattenPackages>false</flattenPackages>
+    <showErrorMarks>true</showErrorMarks>
+    <autoScrollFromSource>false</autoScrollFromSource>
+    <showTooltips>true</showTooltips>
+    <showSummaryInToolbar>true</showSummaryInToolbar>
+    <span>0 days</span>
+    <testViewScope class="com.atlassian.clover.idea.config.TestViewScope">GLOBAL</testViewScope>
+    <generatedInitString>D:\myGitHub\leetcode\.clover\coverage.db</generatedInitString>
+    <instrumentLambda class="com.atlassian.clover.cfg.instr.java.LambdaInstrumentation">NONE</instrumentLambda>
+    <outOfDateStripe>-256</outOfDateStripe>
+    <failedCoveredHighlight>-11513856</failedCoveredHighlight>
+    <highlightCovered>true</highlightCovered>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$problem25.coverage" NAME="problem25 Coverage Results" MODIFIED="1464939067823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problem75.coverage" NAME="problem75 Coverage Results" MODIFIED="1441612650710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problem113.coverage" NAME="problem113 Coverage Results" MODIFIED="1450753065162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$p215.coverage" NAME="p215 Coverage Results" MODIFIED="1439275619322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problem201.coverage" NAME="problem201 Coverage Results" MODIFIED="1448528756715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problem267PalindromePermutationII.coverage" NAME="problem267PalindromePermutationII Coverage Results" MODIFIED="1463913622534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problem323NumberConnectedComponentsInAnUndirectedGraph.coverage" NAME="problem323NumberConnectedComponentsInAnUndirectedGraph Coverage Results" MODIFIED="1463648109639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problem368LargestDivisibleSubset.coverage" NAME="problem368LargestDivisibleSubset Coverage Results" MODIFIED="1467708343246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problem348DesignTicTacToe.coverage" NAME="problem348DesignTicTacToe Coverage Results" MODIFIED="1463478125620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problem297.coverage" NAME="problem297 Coverage Results" MODIFIED="1452500669582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problem316.coverage" NAME="problem316 Coverage Results" MODIFIED="1458205890792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problem4.coverage" NAME="problem4 Coverage Results" MODIFIED="1454312359358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$problme361BombEnemy.coverage" NAME="problme361BombEnemy Coverage Results" MODIFIED="1467704243422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -86,6 +158,231 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/Search2DMatrixII.java" line="46" class="Search2DMatrixII" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/Search2DMatrixII.java" line="55" class="Search2DMatrixII" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problem90.java" line="33" class="problem90" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problem116.java" line="78" class="problem116" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problem88.java" line="0" class="problem88" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/cci/pra4/cci4_6.java" line="16" class="cci.pra4.cci4_6" package="cci.pra4">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/jeroMQ/multiDealer/M_Dealer.java" line="1" class="M_Dealer.java" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problem92_1.java" line="50" class="problem92_1" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problem333LargestBSTSubtree.java" line="17" class="problem333LargestBSTSubtree" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problem332ReconstructItinerary.java" line="50" class="problem332ReconstructItinerary" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problem251Flatten2DVector.java" line="66" class="myVector2D" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problem138.java" line="41" class="problem138" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problem290WordPattern.java" line="15" class="problem290WordPattern" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problme361BombEnemy.java" line="40" class="problme361BombEnemy" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/problem238ProductofArrayExceptSelf.java" line="29" class="problem238ProductofArrayExceptSelf" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
@@ -96,96 +393,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SingleNumber.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingleNumber.java">
+      <file leaf-file-name="problem238ProductofArrayExceptSelf.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem238ProductofArrayExceptSelf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="2" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="456">
+            <state line="33" column="0" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="741">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SameTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SameTree.java">
+      <file leaf-file-name="problem256PaintHouse_1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem256PaintHouse_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="5" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="475">
+            <state line="11" column="0" selection-start="352" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="513">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KthSmallLeast.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/KthSmallLeast.java">
+      <file leaf-file-name="problem323NumberofConnectedComponentsinanUndirectedGraph.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem323NumberofConnectedComponentsinanUndirectedGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="0" selection-start="1152" selection-end="1278" vertical-scroll-proportion="0.0" vertical-offset="874" max-vertical-offset="1140">
+            <state line="104" column="27" selection-start="2341" selection-end="2341" vertical-scroll-proportion="0.0" vertical-offset="1976" max-vertical-offset="2793">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TreeNode.java">
+      <file leaf-file-name="problem359LoggerRateLimiter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem359LoggerRateLimiter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="32" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="285">
+            <state line="17" column="0" selection-start="634" selection-end="634" vertical-scroll-proportion="0.32695985" vertical-offset="0" max-vertical-offset="1349">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MajorElement.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MajorElement.java">
+      <file leaf-file-name="problem371SumofTwoIntegers.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem371SumofTwoIntegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="29" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1064">
+            <state line="10" column="1" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Caculate.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Caculate.java">
+      <file leaf-file-name="problem360SortTransformedArray.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem360SortTransformedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="5" selection-start="2645" selection-end="2645" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1919">
+            <state line="53" column="27" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1216">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LowestCommonAncestor.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LowestCommonAncestor.java">
+      <file leaf-file-name="problem374GuessNumberHigherorLower.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem374GuessNumberHigherorLower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="1599" selection-end="3303" vertical-scroll-proportion="0.41358024" vertical-offset="702" max-vertical-offset="1900">
+            <state line="24" column="45" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="893">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem373FindKPairswithSmallestSums.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem373FindKPairswithSmallestSums.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="47" selection-start="441" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="1425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem372SuperPow.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem372SuperPow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="13" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="551">
               <folding>
-                <element signature="e#1857#1867#0" expanded="true" />
-                <element signature="e#2002#2012#0" expanded="true" />
+                <marker date="1468826928504" expanded="true" signature="311:411" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LowestCommonAncestorII.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LowestCommonAncestorII.java">
+      <file leaf-file-name="problem245ShortestWordDistanceIII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem245ShortestWordDistanceIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="42" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="161" column="12" selection-start="6021" selection-end="6021" vertical-scroll-proportion="0.0" vertical-offset="2067" max-vertical-offset="3629">
-              <folding>
-                <element signature="e#0#8026#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InvertBinaryTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/InvertBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="399">
+            <state line="50" column="28" selection-start="1831" selection-end="1831" vertical-scroll-proportion="0.0" vertical-offset="950" max-vertical-offset="1444">
               <folding />
             </state>
           </provider>
@@ -198,46 +492,137 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/problem15.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/longestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LengthOfLastWord.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ContainsDuplicate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ContainsDuplicateII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ReverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CountPrimes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RomanToInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SummaryRanges.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RemoveLinkedListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HappyNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MaxDepthOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SingleNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SameTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/KthSmallLeast.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MajorElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/InvertBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Caculate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LowestCommonAncetor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LowestCommonAncestorII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LowestCommonAncestor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem273IntegertoEnglishWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem4_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem25.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem218SkyLineProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem339NestedListWeightSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem266PalindromePermutation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem293FlipGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem104MaximumDepthofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem356LineReflection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem357CountNumberswithUniqueDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem351AndroidUnlockPatterns.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem355DesignTwitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem353DesignSnakeGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem350IntersectionofTwoArraysII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem354RussianDollEnvelopes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem283MovingZeros.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem349IntersectionofTwoArrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem202HappyNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem246StrobogrammaticNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem270ClosestBinarySearchTreeValue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem101SymmetricTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem110BalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem342PowerOfFour.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem118PascalsTriangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem172FactorialTrailingZeroes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem119PascalsTriangleII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem36ValidSoduku.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem290WordPattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem234PalindromeLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem14LoggestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem168ExcelSheetColumnTitle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem366FindLeavesofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem369PlusOneLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem370RangeAddition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem362DesignHitCounter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem367ValidPerfectSquare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem320GeneralizedAbbreviation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problme361BombEnemy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem368LargestDivisibleSubset.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem365WaterAndJug.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem245ShortestWordDistanceIII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem364NestedListSumII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem238ProductofArrayExceptSelf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem256PaintHouse_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem323NumberofConnectedComponentsinanUndirectedGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem374GuessNumberHigherorLower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem373FindKPairswithSmallestSums.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem372SuperPow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem371SumofTwoIntegers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem360SortTransformedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem359LoggerRateLimiter.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\tool\apache-maven-3.1.1" />
+        <option name="userSettingsFile" value="D:\tool\apache-maven-3.1.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>J2ME Plugin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -282,7 +667,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -292,11 +677,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -306,15 +691,15 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -324,19 +709,71 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem362DesignHitCounter.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem359LoggerRateLimiter.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -355,13 +792,30 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
-    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="com.atlassian.clover.idea.ProjectPlugin" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="D:/BC-Stream project/trunk/BC-Streaming1.2/pom.xml" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
-  <component name="RunManager" selected="Application.LowestCommonAncestor">
-    <configuration default="false" name="RemoveLinkedListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jeroMQ.multiDealer" />
+      <recent name="cci.pra4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.problem360SortTransformedArray">
+    <configuration default="false" name="problem323NumberofConnectedComponentsinanUndirectedGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="RemoveLinkedListNode" />
+      <option name="MAIN_CLASS_NAME" value="problem323NumberofConnectedComponentsinanUndirectedGraph" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -380,9 +834,9 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
-    <configuration default="false" name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="problem359LoggerRateLimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="HappyNumber" />
+      <option name="MAIN_CLASS_NAME" value="problem359LoggerRateLimiter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -401,9 +855,9 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
-    <configuration default="false" name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="problem374GuessNumberHigherorLower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="SingleNumber" />
+      <option name="MAIN_CLASS_NAME" value="problem374GuessNumberHigherorLower" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -422,9 +876,9 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
-    <configuration default="false" name="Caculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="problem373FindKPairswithSmallestSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Caculate" />
+      <option name="MAIN_CLASS_NAME" value="problem373FindKPairswithSmallestSums" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -440,14 +894,12 @@
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LowestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="problem360SortTransformedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="LowestCommonAncestor" />
+      <option name="MAIN_CLASS_NAME" value="problem360SortTransformedArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -625,6 +1077,17 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
       <option name="BCName" value="" />
       <option name="launcherParameters">
@@ -673,6 +1136,21 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -692,35 +1170,20 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RemoveLinkedListNode" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HappyNumber" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SingleNumber" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Caculate" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LowestCommonAncestor" />
+      <item index="0" class="java.lang.String" itemvalue="Application.problem323NumberofConnectedComponentsinanUndirectedGraph" />
+      <item index="1" class="java.lang.String" itemvalue="Application.problem359LoggerRateLimiter" />
+      <item index="2" class="java.lang.String" itemvalue="Application.problem374GuessNumberHigherorLower" />
+      <item index="3" class="java.lang.String" itemvalue="Application.problem373FindKPairswithSmallestSums" />
+      <item index="4" class="java.lang.String" itemvalue="Application.problem360SortTransformedArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LowestCommonAncestor" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Caculate" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SingleNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HappyNumber" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RemoveLinkedListNode" />
+        <item index="0" class="java.lang.String" itemvalue="Application.problem360SortTransformedArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.problem373FindKPairswithSmallestSums" />
+        <item index="2" class="java.lang.String" itemvalue="Application.problem374GuessNumberHigherorLower" />
+        <item index="3" class="java.lang.String" itemvalue="Application.problem359LoggerRateLimiter" />
+        <item index="4" class="java.lang.String" itemvalue="Application.problem323NumberofConnectedComponentsinanUndirectedGraph" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -769,43 +1232,289 @@
       <workItem from="1436148560375" duration="303000" />
       <workItem from="1436181791615" duration="1560000" />
       <workItem from="1436260248350" duration="3705000" />
-      <workItem from="1436850936315" duration="11277000" />
+      <workItem from="1436850936315" duration="12879000" />
+      <workItem from="1436922092654" duration="18144000" />
+      <workItem from="1437009283446" duration="7178000" />
+      <workItem from="1437356064351" duration="17000" />
+      <workItem from="1437361987273" duration="2518000" />
+      <workItem from="1437377009301" duration="9355000" />
+      <workItem from="1437541603490" duration="7916000" />
+      <workItem from="1437614459604" duration="13307000" />
+      <workItem from="1437699183071" duration="2170000" />
+      <workItem from="1437708850982" duration="1329000" />
+      <workItem from="1437871221793" duration="2172000" />
+      <workItem from="1437989880216" duration="1816000" />
+      <workItem from="1437992195058" duration="1792000" />
+      <workItem from="1438071656515" duration="599000" />
+      <workItem from="1438156233914" duration="892000" />
+      <workItem from="1438161114680" duration="1125000" />
+      <workItem from="1438238790326" duration="8235000" />
+      <workItem from="1438303748610" duration="1293000" />
+      <workItem from="1438566698461" duration="132000" />
+      <workItem from="1438670649003" duration="1272000" />
+      <workItem from="1438677447403" duration="2596000" />
+      <workItem from="1438822241064" duration="5450000" />
+      <workItem from="1438908789612" duration="597000" />
+      <workItem from="1439187712047" duration="11627000" />
+      <workItem from="1439270451262" duration="5681000" />
+      <workItem from="1439340372044" duration="1775000" />
+      <workItem from="1439342921953" duration="71000" />
+      <workItem from="1439343032409" duration="15578000" />
+      <workItem from="1439425503508" duration="626000" />
+      <workItem from="1439428602523" duration="425000" />
+      <workItem from="1439448015007" duration="144000" />
+      <workItem from="1439453421404" duration="7803000" />
+      <workItem from="1439517549198" duration="6876000" />
+      <workItem from="1439780899501" duration="16741000" />
+      <workItem from="1439859056073" duration="4943000" />
+      <workItem from="1439866145526" duration="9174000" />
+      <workItem from="1439945753146" duration="18633000" />
+      <workItem from="1440206946733" duration="597000" />
+      <workItem from="1440208972431" duration="925000" />
+      <workItem from="1440553326300" duration="624000" />
+      <workItem from="1440577383073" duration="579000" />
+      <workItem from="1440578697402" duration="657000" />
+      <workItem from="1440636730294" duration="603000" />
+      <workItem from="1440731597823" duration="9528000" />
+      <workItem from="1441005657072" duration="657000" />
+      <workItem from="1441010255410" duration="3848000" />
+      <workItem from="1441069587316" duration="14000000" />
+      <workItem from="1441182650888" duration="3601000" />
+      <workItem from="1441527753184" duration="6731000" />
+      <workItem from="1441588092560" duration="17188000" />
+      <workItem from="1441673326427" duration="1163000" />
+      <workItem from="1441674855580" duration="16844000" />
+      <workItem from="1441760671428" duration="615000" />
+      <workItem from="1441762000833" duration="630000" />
+      <workItem from="1441777920797" duration="10656000" />
+      <workItem from="1441845953860" duration="11528000" />
+      <workItem from="1441938795281" duration="4480000" />
+      <workItem from="1442205478284" duration="598000" />
+      <workItem from="1442374343395" duration="867000" />
+      <workItem from="1442536982137" duration="817000" />
+      <workItem from="1442804139311" duration="604000" />
+      <workItem from="1443084522973" duration="21000" />
+      <workItem from="1443142026440" duration="3641000" />
+      <workItem from="1443408738100" duration="15802000" />
+      <workItem from="1443594087146" duration="1281000" />
+      <workItem from="1444194374388" duration="11577000" />
+      <workItem from="1444273970467" duration="625000" />
+      <workItem from="1444611488207" duration="42000" />
+      <workItem from="1444611922007" duration="967000" />
+      <workItem from="1444615978503" duration="20000" />
+      <workItem from="1444707615312" duration="603000" />
+      <workItem from="1444802804915" duration="190000" />
+      <workItem from="1445561584759" duration="21000" />
+      <workItem from="1445825280111" duration="27000" />
+      <workItem from="1447642095693" duration="16902000" />
+      <workItem from="1447722554573" duration="17349000" />
+      <workItem from="1447813672970" duration="16639000" />
+      <workItem from="1447895305460" duration="26877000" />
+      <workItem from="1447981532067" duration="11019000" />
+      <workItem from="1448240730373" duration="21272000" />
+      <workItem from="1448327687178" duration="17383000" />
+      <workItem from="1448413567073" duration="1440000" />
+      <workItem from="1448431291428" duration="12794000" />
+      <workItem from="1448500174001" duration="8732000" />
+      <workItem from="1448586088277" duration="17899000" />
+      <workItem from="1448676803275" duration="9425000" />
+      <workItem from="1448955923251" duration="8236000" />
+      <workItem from="1449019273671" duration="16608000" />
+      <workItem from="1449105639633" duration="4695000" />
+      <workItem from="1449191109360" duration="42000" />
+      <workItem from="1449210926925" duration="1017000" />
+      <workItem from="1449283912079" duration="44000" />
+      <workItem from="1449537727920" duration="6261000" />
+      <workItem from="1449711344931" duration="11746000" />
+      <workItem from="1449796812817" duration="555000" />
+      <workItem from="1449813891754" duration="2506000" />
+      <workItem from="1450063586540" duration="1201000" />
+      <workItem from="1450140914967" duration="20247000" />
+      <workItem from="1450227724379" duration="21839000" />
+      <workItem from="1450400805959" duration="4887000" />
+      <workItem from="1450496221069" duration="7823000" />
+      <workItem from="1450510697609" duration="726000" />
+      <workItem from="1450660555053" duration="11658000" />
+      <workItem from="1450748497354" duration="13560000" />
+      <workItem from="1450920793724" duration="10649000" />
+      <workItem from="1451023635945" duration="8981000" />
+      <workItem from="1451267258246" duration="13049000" />
+      <workItem from="1451351711359" duration="11955000" />
+      <workItem from="1451437600033" duration="16369000" />
+      <workItem from="1451526628200" duration="1467000" />
+      <workItem from="1451897335700" duration="3992000" />
+      <workItem from="1451972805286" duration="13074000" />
+      <workItem from="1452042464689" duration="6967000" />
+      <workItem from="1452062969881" duration="5622000" />
+      <workItem from="1452129028457" duration="721000" />
+      <workItem from="1452132700384" duration="16085000" />
+      <workItem from="1452215795157" duration="4575000" />
+      <workItem from="1452231037565" duration="7508000" />
+      <workItem from="1452247234819" duration="176000" />
+      <workItem from="1452476840951" duration="13434000" />
+      <workItem from="1452584636294" duration="848000" />
+      <workItem from="1452647233155" duration="9020000" />
+      <workItem from="1452665412499" duration="6583000" />
+      <workItem from="1452734245295" duration="5996000" />
+      <workItem from="1452828094865" duration="12436000" />
+      <workItem from="1453032217474" duration="4086000" />
+      <workItem from="1453079116134" duration="28000" />
+      <workItem from="1453088630795" duration="9169000" />
+      <workItem from="1453339975445" duration="9303000" />
+      <workItem from="1453684439376" duration="1188000" />
+      <workItem from="1453790313453" duration="3276000" />
+      <workItem from="1454311805612" duration="5206000" />
+      <workItem from="1454375935772" duration="598000" />
+      <workItem from="1454483892303" duration="3335000" />
+      <workItem from="1455411528205" duration="20042000" />
+      <workItem from="1455603058752" duration="11588000" />
+      <workItem from="1455670433842" duration="3490000" />
+      <workItem from="1455758493907" duration="13446000" />
+      <workItem from="1455844576429" duration="1391000" />
+      <workItem from="1455862754485" duration="4539000" />
+      <workItem from="1456104547044" duration="9534000" />
+      <workItem from="1456191266369" duration="9783000" />
+      <workItem from="1456276055723" duration="7761000" />
+      <workItem from="1456362964780" duration="597000" />
+      <workItem from="1456724633601" duration="5107000" />
+      <workItem from="1456794020899" duration="13090000" />
+      <workItem from="1456880767991" duration="6544000" />
+      <workItem from="1456967420536" duration="6982000" />
+      <workItem from="1457058279949" duration="8664000" />
+      <workItem from="1457313563757" duration="10613000" />
+      <workItem from="1457401520547" duration="2808000" />
+      <workItem from="1457412820070" duration="2715000" />
+      <workItem from="1457429076853" duration="2497000" />
+      <workItem from="1457501489776" duration="1643000" />
+      <workItem from="1457512141017" duration="1779000" />
+      <workItem from="1457599513468" duration="2147000" />
+      <workItem from="1457936948448" duration="3306000" />
+      <workItem from="1458004571408" duration="47000" />
+      <workItem from="1458203399370" duration="1916000" />
+      <workItem from="1458527075735" duration="3777000" />
+      <workItem from="1458608175668" duration="5687000" />
+      <workItem from="1458694155194" duration="16361000" />
+      <workItem from="1458781490826" duration="11141000" />
+      <workItem from="1458867986723" duration="1794000" />
+      <workItem from="1459126565207" duration="9605000" />
+      <workItem from="1459211917750" duration="2881000" />
+      <workItem from="1459300160506" duration="15885000" />
+      <workItem from="1459385177662" duration="1443000" />
+      <workItem from="1459405195439" duration="12334000" />
+      <workItem from="1459472686803" duration="9327000" />
+      <workItem from="1459818941264" duration="2475000" />
+      <workItem from="1459907535117" duration="2617000" />
+      <workItem from="1461657559627" duration="4578000" />
+      <workItem from="1461720771022" duration="10520000" />
+      <workItem from="1461811416986" duration="9388000" />
+      <workItem from="1461891413927" duration="11394000" />
+      <workItem from="1462237157174" duration="6780000" />
+      <workItem from="1462323831493" duration="1924000" />
+      <workItem from="1462350314001" duration="1653000" />
+      <workItem from="1462495921758" duration="7208000" />
+      <workItem from="1462756812092" duration="11716000" />
+      <workItem from="1462840848170" duration="5715000" />
+      <workItem from="1462873764499" duration="270000" />
+      <workItem from="1462927826597" duration="9573000" />
+      <workItem from="1463013846103" duration="1198000" />
+      <workItem from="1463122131093" duration="4830000" />
+      <workItem from="1463369422556" duration="17000" />
+      <workItem from="1463447360658" duration="11903000" />
+      <workItem from="1463532101085" duration="22095000" />
+      <workItem from="1463618571176" duration="22106000" />
+      <workItem from="1463707492703" duration="20643000" />
+      <workItem from="1463802212311" duration="3189000" />
+      <workItem from="1463814330762" duration="6865000" />
+      <workItem from="1463897320792" duration="5730000" />
+      <workItem from="1463965451097" duration="1254000" />
+      <workItem from="1464141554362" duration="5854000" />
+      <workItem from="1464223510222" duration="5103000" />
+      <workItem from="1464309900300" duration="2436000" />
+      <workItem from="1464316556937" duration="11502000" />
+      <workItem from="1464576182078" duration="7924000" />
+      <workItem from="1464601813650" duration="746000" />
+      <workItem from="1464655649660" duration="16234000" />
+      <workItem from="1464743866447" duration="6638000" />
+      <workItem from="1464771825616" duration="216000" />
+      <workItem from="1464772240369" duration="2632000" />
+      <workItem from="1464828130347" duration="1138000" />
+      <workItem from="1464846981138" duration="3205000" />
+      <workItem from="1464915992439" duration="10024000" />
+      <workItem from="1465182803033" duration="12000" />
+      <workItem from="1465260857302" duration="35000" />
+      <workItem from="1465281150607" duration="5901000" />
+      <workItem from="1465347500408" duration="7575000" />
+      <workItem from="1465693451348" duration="637000" />
+      <workItem from="1465698162155" duration="4688000" />
+      <workItem from="1465779214174" duration="20838000" />
+      <workItem from="1465866192893" duration="9470000" />
+      <workItem from="1465959195965" duration="9531000" />
+      <workItem from="1466037888883" duration="378000" />
+      <workItem from="1466414695514" duration="2114000" />
+      <workItem from="1466471874369" duration="1753000" />
+      <workItem from="1466581102638" duration="4093000" />
+      <workItem from="1466646844926" duration="1494000" />
+      <workItem from="1466665863219" duration="8041000" />
+      <workItem from="1466729749697" duration="7725000" />
+      <workItem from="1466821078374" duration="67000" />
+      <workItem from="1466907205683" duration="6769000" />
+      <workItem from="1466995516229" duration="603000" />
+      <workItem from="1467248898249" duration="9570000" />
+      <workItem from="1467335237248" duration="4965000" />
+      <workItem from="1467424678303" duration="3181000" />
+      <workItem from="1467443219450" duration="852000" />
+      <workItem from="1467527118465" duration="3210000" />
+      <workItem from="1467681223919" duration="19946000" />
+      <workItem from="1467766725039" duration="4266000" />
+      <workItem from="1467853589977" duration="11733000" />
+      <workItem from="1468201122936" duration="4701000" />
+      <workItem from="1468315846566" duration="1233000" />
+      <workItem from="1468564397476" duration="9629000" />
+      <workItem from="1468646267601" duration="3799000" />
+      <workItem from="1468806484632" duration="510000" />
+      <workItem from="1468822121515" duration="11350000" />
+      <workItem from="1468890599311" duration="607000" />
+      <workItem from="1468977040667" duration="79000" />
+      <workItem from="1469526404363" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66617000" />
+    <option name="totallyTimeSpent" value="1601372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4107425" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328594" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25895765" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26384366" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2031722" sideWeight="0.5099778" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.007575758" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24524158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44707742" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.009063444" sideWeight="0.49889135" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2031722" sideWeight="0.49002218" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43485343" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.009063444" sideWeight="0.50110865" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32736155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31921825" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -830,368 +1539,450 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem356LineReflection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="18" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" vertical-offset="1045" max-vertical-offset="1349">
+        <state line="42" column="7" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1425">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountPrimes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem357CountNumberswithUniqueDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="38" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
+        <state line="45" column="0" selection-start="2035" selection-end="2035" vertical-scroll-proportion="0.0" vertical-offset="798" max-vertical-offset="2014">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem351AndroidUnlockPatterns.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="323">
+        <state line="33" column="13" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="798">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1121">
+        <state line="475" column="9" selection-start="21397" selection-end="21397" vertical-scroll-proportion="0.0" vertical-offset="8179" max-vertical-offset="11077" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem355DesignTwitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="35" selection-start="3487" selection-end="3542" vertical-scroll-proportion="0.0" vertical-offset="1940" max-vertical-offset="2527">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LengthOfLastWord.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem353DesignSnakeGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="5" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="532" max-vertical-offset="684">
+        <state line="163" column="36" selection-start="5008" selection-end="5008" vertical-scroll-proportion="0.0" vertical-offset="2892" max-vertical-offset="3553">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainsDuplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem350IntersectionofTwoArraysII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="1" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="570">
+        <state line="9" column="11" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainsDuplicateII.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem354RussianDollEnvelopes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="5" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="331" max-vertical-offset="798">
+        <state line="23" column="15" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1045">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem283MovingZeros.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="18" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" vertical-offset="1045" max-vertical-offset="1349">
+        <state line="31" column="0" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="855">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountPrimes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem283.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="38" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="722">
+        <state line="9" column="25" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="665">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem243ShortestWordDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="323">
+        <state line="23" column="0" selection-start="875" selection-end="1423" vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="969">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem349IntersectionofTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1121">
+        <state line="20" column="86" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="874">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LengthOfLastWord.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem202HappyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="5" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="532" max-vertical-offset="684">
+        <state line="26" column="0" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="608">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainsDuplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem246StrobogrammaticNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="1" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="570">
+        <state line="21" column="17" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="779">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainsDuplicateII.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem270ClosestBinarySearchTreeValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="5" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="331" max-vertical-offset="798">
+        <state line="24" column="0" selection-start="1104" selection-end="1414" vertical-scroll-proportion="0.0" vertical-offset="237" max-vertical-offset="760">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem101SymmetricTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="18" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1349">
+        <state line="4" column="0" selection-start="87" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem110.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="323">
+        <state line="5" column="13" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="494">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem110BalancedBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1121">
+        <state line="17" column="18" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="779">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LengthOfLastWord.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem342PowerOfFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="5" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="532" max-vertical-offset="684">
+        <state line="14" column="0" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainsDuplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem172FactorialTrailingZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="1" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="570">
+        <state line="11" column="18" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem119PascalsTriangleII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="323">
+        <state line="16" column="7" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem36ValidSoduku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1121">
+        <state line="3" column="35" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="665">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LengthOfLastWord.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem290WordPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="5" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="684">
+        <state line="19" column="25" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="205" max-vertical-offset="646">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainsDuplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem234PalindromeLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="1" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="570">
+        <state line="4" column="46" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem14LoggestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="323">
+        <state line="14" column="36" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="798">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem168ExcelSheetColumnTitle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1121">
+        <state line="14" column="3" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LengthOfLastWord.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem118PascalsTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="5" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="532" max-vertical-offset="684">
+        <state line="23" column="5" selection-start="657" selection-end="673" vertical-scroll-proportion="0.0" vertical-offset="177" max-vertical-offset="779">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem366FindLeavesofBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="323">
+        <state line="49" column="0" selection-start="1138" selection-end="2019" vertical-scroll-proportion="0.0" vertical-offset="912" max-vertical-offset="1634">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem369PlusOneLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1121">
+        <state line="25" column="38" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="950">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LengthOfLastWord.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem362DesignHitCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="5" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+        <state line="73" column="62" selection-start="2053" selection-end="2053" vertical-scroll-proportion="0.0" vertical-offset="1293" max-vertical-offset="1672">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem311SparseMatrixMultiplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+        <state line="34" column="3" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="1235">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem370RangeAddition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1121">
+        <state line="46" column="17" selection-start="1366" selection-end="1366" vertical-scroll-proportion="0.0" vertical-offset="652" max-vertical-offset="1216">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LengthOfLastWord.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem367ValidPerfectSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="5" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="684">
+        <state line="21" column="3" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="551">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainsDuplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem241.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="1" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+        <state line="20" column="13" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="590" max-vertical-offset="1425">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainsDuplicateII.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem320GeneralizedAbbreviation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="5" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="331" max-vertical-offset="798">
+        <state line="7" column="72" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="665">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problme361BombEnemy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="18" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1349">
+        <state line="26" column="23" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0" vertical-offset="370" max-vertical-offset="1615">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountPrimes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem368LargestDivisibleSubset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="38" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
+        <state line="83" column="7" selection-start="4653" selection-end="4653" vertical-scroll-proportion="0.0" vertical-offset="1317" max-vertical-offset="1976">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RomanToInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem365WaterAndJug.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="21" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0" vertical-offset="828" max-vertical-offset="1292">
+        <state line="16" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="589">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SummaryRanges.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem364NestedListSumII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="26" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0" vertical-offset="518" max-vertical-offset="1102">
+        <state line="22" column="60" selection-start="856" selection-end="915" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1045">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveLinkedListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem281ZigzagIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="33" selection-start="1244" selection-end="1244" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1235">
+        <state line="27" column="8" selection-start="905" selection-end="905" vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="1710">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HappyNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem238.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+        <state line="19" column="46" selection-start="658" selection-end="702" vertical-scroll-proportion="0.0" vertical-offset="82" max-vertical-offset="817">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MaxDepthOfBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem238ProductofArrayExceptSelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="293" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+        <state line="33" column="0" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="741">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SingleNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem256PaintHouse_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="2" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+        <state line="11" column="0" selection-start="352" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SameTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem323NumberofConnectedComponentsinanUndirectedGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+        <state line="104" column="27" selection-start="2341" selection-end="2341" vertical-scroll-proportion="0.0" vertical-offset="1887" max-vertical-offset="2793">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MajorElement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem374GuessNumberHigherorLower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="29" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1064">
+        <state line="24" column="45" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="893">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/KthSmallLeast.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem373FindKPairswithSmallestSums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="1152" selection-end="1278" vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="1140">
+        <state line="14" column="47" selection-start="441" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="1368">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem372SuperPow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="32" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InvertBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Caculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="5" selection-start="2645" selection-end="2645" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1919">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="161" column="12" selection-start="6021" selection-end="6021" vertical-scroll-proportion="0.0" vertical-offset="2067" max-vertical-offset="3629">
+        <state line="20" column="13" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
           <folding>
-            <element signature="e#0#8026#0" expanded="false" />
+            <marker date="1468826928504" expanded="true" signature="311:411" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LowestCommonAncestorII.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem371SumofTwoIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+        <state line="10" column="1" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LowestCommonAncestor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem360SortTransformedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1599" selection-end="3303" vertical-scroll-proportion="0.41358024" vertical-offset="702" max-vertical-offset="1900">
-          <folding>
-            <element signature="e#1857#1867#0" expanded="true" />
-            <element signature="e#2002#2012#0" expanded="true" />
-          </folding>
+        <state line="53" column="27" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1216">
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem245ShortestWordDistanceIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="28" selection-start="1831" selection-end="1831" vertical-scroll-proportion="0.0" vertical-offset="796" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem359LoggerRateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="634" selection-end="634" vertical-scroll-proportion="0.32695985" vertical-offset="0" max-vertical-offset="1349">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leetcode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
